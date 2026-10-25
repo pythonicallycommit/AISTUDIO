@@ -1,0 +1,9 @@
+{
+  "name": "Escape Omar",
+  "description": "Escape Agent Omar's infernal prison through treacherous parkour in first-person or third-person view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
+
